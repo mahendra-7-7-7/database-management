@@ -1,0 +1,16 @@
+# Ignore sensitive files 
+.env 
+db.php 
+googleauth.txt 
+google_auth.php 
+# Ignore IDE specific files 
+.idea/ 
+.vscode/ 
+# Ignore OS generated files 
+.DS_Store 
+Thumbs.db 
+# Ignore composer files 
+vendor/ 
+composer.lock 
+# Ignore uploaded files 
+uploads/ 
